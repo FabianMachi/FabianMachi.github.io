@@ -1,7 +1,3 @@
-/* by encodedmabel
-https://linktr.ee/mabelolivera10 */
-
-
 *{
   position: absolute;
   margin: auto;
@@ -316,32 +312,4 @@ h1 {
 }
 .vapour > p {
   color: red;
-}
-
-/* Estilos para el título */
-.title {
-  font-family: 'Parisienne', cursive;
-  font-size: 2.5em;
-  color: #5A2A27; /* Un color café acorde al tema */
-  text-align: center;
-  margin-top: 20px;
-  padding: 10px;
-}
-
-/* Para pantallas más pequeñas */
-@media screen and (max-width: 768px) {
-  .title {
-    font-size: 1.8em; /* Reduce el tamaño del título en pantallas pequeñas */
-    margin-top: 10px; /* Ajusta el margen superior */
-  }
-}
-
-/* Evitar que el contenido se superponga */
-.container {
-  position: relative;
-  z-index: 1; /* Controla la superposición */
-}
-
-.title {
-  z-index: 2; /* El título estará siempre por encima de otros elementos */
 }
