@@ -4,7 +4,8 @@ const BUTTON = document.querySelector('button');
 //const AUDIO = new Audio('./talvez.mp3');
 //const AUDIO = new Audio('./mikriptonita.m4a');
 //const AUDIO = new Audio('./msicatiktok.m4a');
-const AUDIO = new Audio('./Seguro Te Pierdo.m4a');
+//const AUDIO = new Audio('./Seguro Te Pierdo.m4a');
+const AUDIO = new Audio('./Mana - Manda Una Señal (Video Oficial).m4a');
 
 AUDIO.crossOrigin = 'anonymous';
 
