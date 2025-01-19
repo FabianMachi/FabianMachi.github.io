@@ -1,7 +1,7 @@
 import gsap from "https://cdn.skypack.dev/gsap@3.11.0";
 
 const BUTTON = document.querySelector('button');
-const AUDIO = new Audio('./talvez.mp3');
+const AUDIO = new Audio('./NIÑA ELEGANTE.m4a');
 
 AUDIO.crossOrigin = 'anonymous';
 
