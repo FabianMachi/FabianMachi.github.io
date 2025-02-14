@@ -1,7 +1,7 @@
 import gsap from "https://cdn.skypack.dev/gsap@3.11.0";
 
 const BUTTON = document.querySelector('button');
-const AUDIO = new Audio('./I Lived OneRepublic.m4a');
+const AUDIO = new Audio('./La mujer perfecta.m4a');
 
 AUDIO.crossOrigin = 'anonymous';
 
